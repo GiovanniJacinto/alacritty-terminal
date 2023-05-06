@@ -9,7 +9,6 @@ shell:
 working_directory: %USERPROFILE%
 
 background_opacity: 0.8
-windows.opacity: 0.2
 
 font:
   normal:
